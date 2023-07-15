@@ -2,6 +2,6 @@ main:
   - title: "About me"
     url: /aboutme/
   - title: "Evolution"
-    url: /science/
-  - title: "CV"
-    url: "/files/bB_Cv.pdf"
+    url: /evolution/
+  - title: "Research Interest"
+    url: /research/
