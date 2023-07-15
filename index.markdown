@@ -6,7 +6,8 @@ layout: default
 title: Homepage
 ---
 
-Hello!
+ <h1 style="color:black;font-size:40px;"> <b> Hello! My name is Biswajit </b> </h1>      
+
 
 
 
