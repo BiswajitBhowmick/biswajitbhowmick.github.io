@@ -7,3 +7,5 @@ main:
     url: /research/
   - title: "CV"
     url: /cv/
+ - title: "Notes"
+    url: /notes/
